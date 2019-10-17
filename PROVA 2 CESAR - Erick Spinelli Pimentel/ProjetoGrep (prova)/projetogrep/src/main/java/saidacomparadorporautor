@@ -1,0 +1,11 @@
+[
+Livro{id=34, titulo='The Return of Eagle and Whale', autor='Ana Montana', formato='hardback', preco=19.99}, 
+Livro{id=83, titulo='Fish and Goose an allegory for modern times', autor='Borgen Ingent', formato='paperback', preco=59.99}, 
+Livro{id=71, titulo='Cow and Goose Cheat Sheet for Students', autor='Cavin Parrot', formato='ebook', preco=5.99}, 
+Livro{id=1, titulo='Gabriel Diniz', autor='GD na Ilha', formato='ebook', preco=20.0}, 
+Livro{id=41, titulo='The Adventures of Falcon and Horse', autor='John Livet', formato='hardback', preco=18.99}, 
+Livro{id=128, titulo='The Adventures of Duck and Scorpion', autor='Mary Poppins', formato='ebook', preco=10.99}, 
+Livro{id=62, titulo='Annotated Notes on the Duck and Goose chronicles', autor='Prof. Macaw', formato='ebook', preco=8.99}, 
+Livro{id=12, titulo='More Fun with Rat and Goose', autor='Richard Luke', formato='paperback', preco=12.99}, 
+Livro{id=35, titulo='The Return of Horse and Spider', autor='Seth Maven', formato='hardback', preco=19.99}, 
+Livro{id=28, titulo='Parrot and Pigeon on Holiday', autor='Sir Quackalot', formato='ebook', preco=11.99}]

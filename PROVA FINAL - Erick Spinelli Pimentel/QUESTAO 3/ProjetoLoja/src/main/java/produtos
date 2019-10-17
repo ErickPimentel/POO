@@ -1,0 +1,28 @@
+GRAFICO DE DISTRIBUICAO DE PRECOS
+---------------------------------
+00-09: 
+10-19: 
+20-29: 
+30-39: 
+40-49: 
+50-59: 
+60-69: + 
+70-79: + + 
+80-89: + + + + 
+90-99: + + 
+  100: + 
+
+Menor Preco: 68.0
+Maior Preco: 100.0
+Media dos precos: 84.3
+
+Produto{cod=1, descricao='Feijao', preco=68.0}
+Produto{cod=2, descricao='Arroz', preco=100.0}
+Produto{cod=3, descricao='Balde', preco=78.0}
+Produto{cod=4, descricao='Prego', preco=91.0}
+Produto{cod=5, descricao='Luva', preco=87.0}
+Produto{cod=6, descricao='Caixa', preco=94.0}
+Produto{cod=7, descricao='Molho', preco=83.0}
+Produto{cod=8, descricao='Sal', preco=85.0}
+Produto{cod=9, descricao='Acucar', preco=76.0}
+Produto{cod=10, descricao='Farinha', preco=81.0}
