@@ -1,0 +1,19 @@
+City{name='Tucson', state='AZ', zipcode=524295}
+City{name='Mesa', state='AZ', zipcode=452084}
+City{name='Fresno', state='CA', zipcode=505882}
+City{name='Sacramento', state='CA', zipcode=475516}
+City{name='Long Beach', state='CA', zipcode=467892}
+City{name='Denver', state='CO', zipcode=634265}
+City{name='Washington', state='DC', zipcode=632323}
+City{name='Atlanta', state='GA', zipcode=443775}
+City{name='Louisville/Jefferson County', state='KY', zipcode=605110}
+City{name='Baltimore', state='MD', zipcode=621342}
+City{name='Kansas', state='MO', zipcode=464310}
+City{name='Albuquerque', state='NM', zipcode=555417}
+City{name='Las Vegas', state='NV', zipcode=596424}
+City{name='Oklahoma', state='OK', zipcode=599199}
+City{name='Portland', state='OR', zipcode=603106}
+City{name='Nashville-Davidson', state='TN', zipcode=624496}
+City{name='Virginia Beach', state='VA', zipcode=447021}
+City{name='Seattle', state='WA', zipcode=634535}
+City{name='Milwaukee', state='WI', zipcode=598916}

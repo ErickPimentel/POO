@@ -1,0 +1,5 @@
+Barco{combustive='Combustivel de barco', pilotos=[Piloto{nome='Erick', idade=19}, Piloto{nome='Ikael', idade=20}, Piloto{nome='Micael', idade=20}, Piloto{nome='Isaque', idade=18}], comprimento10, largura5}
+Barco{combustive='Combustivel de barco', pilotos=[Piloto{nome='Erick', idade=19}, Piloto{nome='Ikael', idade=20}, Piloto{nome='Micael', idade=20}, Piloto{nome='Isaque', idade=18}], comprimento20, largura10}
+Foguete{combustive='Combustivel de foguete', pilotos=[Piloto{nome='Erick', idade=19}, Piloto{nome='Ikael', idade=20}, Piloto{nome='Micael', idade=20}, Piloto{nome='Isaque', idade=18}]}
+Foguete{combustive='Combustivel de foguete', pilotos=[Piloto{nome='Erick', idade=19}, Piloto{nome='Ikael', idade=20}, Piloto{nome='Micael', idade=20}, Piloto{nome='Isaque', idade=18}]}
+Foguete{combustive='Combustivel de foguete', pilotos=[Piloto{nome='Erick', idade=19}, Piloto{nome='Ikael', idade=20}, Piloto{nome='Micael', idade=20}, Piloto{nome='Isaque', idade=18}]}
